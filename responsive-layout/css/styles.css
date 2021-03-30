@@ -78,7 +78,7 @@ a { font-weight: 600;
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: space-between;
-        width: 45;
+        
     }
     h2 {
         padding-top: 25px;
@@ -114,7 +114,7 @@ a { font-weight: 600;
         width: 335px;
         padding-left: 30px;
     }
-    #section {
+    .section {
         max-width: 48%;
         margin-bottom: 65px;
     }
@@ -178,13 +178,13 @@ a { font-weight: 600;
     .container p {
         width: 270px;
     }
-    #section {
+    .section {
         max-width: 33%;
     }
-    #contact {
+    .contact {
         font-size: 22px;
     }
-    #contact-info {
+    .contact-info {
         padding-left: 25px;
     }
     #close {
